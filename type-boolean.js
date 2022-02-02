@@ -7,7 +7,7 @@ const numero20 = 20;
 
 console.log(numero10 === numero20);
 
-const texto = "K";
+const texto1 = "K";
 const texto2 = "HFR"
 
-console.log(texto == texto2);
+console.log(texto1 == texto2);
