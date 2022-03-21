@@ -17,6 +17,7 @@ console.log(media);
 
 // Usando Array
 
-const notas = [10, 6.5, 8, 7.5];
+//Cada elemento está em um índice... nesse caso a nota 10 está no índice 0 !
+const notas = [10, 6.5, 8, 7.5];                   //.length= comprimento da array...no caso 4
 let media = (notas[0] + notas[1] + notas[2] + notas[3]) / notas.length;
 console.log(media); 
